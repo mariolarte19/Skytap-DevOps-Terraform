@@ -1,3 +1,4 @@
 # Skytap-DevOps-Terraform
 
-# 1. Instala Terraform en la máquina local
+# 1. Instale Terraform en su máquina local
+
