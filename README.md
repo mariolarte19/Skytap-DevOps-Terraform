@@ -34,3 +34,10 @@ e. Verifique que la instalación sea exitosa
 Vera una salida de consola como la siguiente:
 
 `Terraform v0.12.24`
+
+### 1. Descargue el complemento skytap provider
+
+a. [Descargue la versión v1.0.0 del archivo binario de IBM Cloud Provider.](https://releases.hashicorp.com/terraform-provider-skytap/)
+
+Ingrese a la carpeta de descargas y extraiga el archivo binario del plug-in, para el caso particular se ha descargado la versión para Linux de 64 bits.
+
