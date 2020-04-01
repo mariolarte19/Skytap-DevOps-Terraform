@@ -41,3 +41,19 @@ a. [Descargue la última versión del archivo binario de Skytap Provider.](https
 
 Ingrese a la carpeta de descargas y extraiga el archivo binario del plug-in, para el caso particular se ha descargado la versión para Linux de 64 bits.
 
+`cd $HOME/Downloads
+unzip terraform-provider-skytap_0.14.0_linux_amd64.zip`
+
+b. Cree una carpeta oculta para su complemento.
+
+`mkdir $HOME/.terraform.d/plugins`
+
+c. Mueva el complemento de IBM Cloud Provider plug-in en la carpeta oculta que acaba de crear
+
+`mv $HOME/Downloads/terraform-provider-ibm* $HOME/.terraform.d/plugins/`
+
+d. Ingrese a la carpeta occulta y verifique que la instalación se haya terminado
+
+`cd $HOME/.terraform.d/plugins && ./terraform-provider-ibm_*`
+
+Vera una salida como la siguiente:
