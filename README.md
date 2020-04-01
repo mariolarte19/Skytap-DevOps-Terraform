@@ -12,7 +12,7 @@ a. Cree una carpeta en su sistema local que se llama terraform y navegue a su ca
 
 `mkdir terraform && cd terraform`
 
-b. Descargue la ùltima versión de Terraform CLI en su máquina local (en este caso es la 0.12.24)
+b. [Descargue la ùltima versión de Terraform CLI en su máquina local (en este caso es la 0.12.24)](https://releases.hashicorp.com/terraform/)
 
 El archivo de instalación quedara alojado en la carpeta de descargas que tenga configurada por defecto, por lo que debe entrar a la c arpeta de descargas para extraer el archivo.
 
