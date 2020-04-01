@@ -10,7 +10,8 @@
 
 a. Cree una carpeta en su sistema local que se llama terraform y navegue a su carpeta.
 
-mkdir terraform && cd terraform
+`mkdir terraform && cd terraform`
+
 b. Descargue la versión 0.12.19 de Terraform CLI en su máquina local.
 
 El archivo de instalación quedara alojado en la carpeta de descargas que tenga configurada por defecto, por lo que debe entrar a la c arpeta de descargas para extraer el archivo.
