@@ -37,7 +37,7 @@ Vera una salida de consola como la siguiente:
 
 ### 1. Descargue el complemento skytap provider
 
-a. [Descargue la versión v1.0.0 del archivo binario de IBM Cloud Provider.](https://releases.hashicorp.com/terraform-provider-skytap/)
+a. [Descargue la última versión del archivo binario de Skytap Provider.](https://releases.hashicorp.com/terraform-provider-skytap/)
 
 Ingrese a la carpeta de descargas y extraiga el archivo binario del plug-in, para el caso particular se ha descargado la versión para Linux de 64 bits.
 
