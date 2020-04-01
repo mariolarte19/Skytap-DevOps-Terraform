@@ -48,7 +48,7 @@ b. Cree una carpeta oculta para su complemento.
 
 `mkdir $HOME/.terraform.d/plugins`
 
-c. Mueva el complemento de SKytap Provider a la carpeta oculta que acaba de crear
+c. Mueva el complemento de Skytap Provider a la carpeta oculta que acaba de crear
 
 `mv $HOME/Downloads/terraform-provider-ibm* $HOME/.terraform.d/plugins/`
 
