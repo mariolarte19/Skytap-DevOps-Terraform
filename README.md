@@ -66,5 +66,7 @@ Vera una salida como la siguiente:
 
 a. Cree una carpeta en su máquina local para su primer proyecto Terraform y navegue hacia la carpeta. Esta carpeta se utiliza para almacenar todos los archivos de configuración y definiciones de variables.
 
-`cd $HOME<br />
-mkdir myproject && cd myproject`
+`cd $HOME`<br />
+'mkdir myproject && cd myproject`
+
+
