@@ -57,3 +57,14 @@ d. Ingrese a la carpeta occulta y verifique que la instalación se haya terminad
 `cd $HOME/.terraform.d/plugins && ./terraform-provider-ibm_*`
 
 Vera una salida como la siguiente:
+
+-
+-
+-
+
+### 3. Configure el elemento Skytap provider
+
+a. Cree una carpeta en su máquina local para su primer proyecto Terraform y navegue hacia la carpeta. Esta carpeta se utiliza para almacenar todos los archivos de configuración y definiciones de variables.
+
+`cd $HOME
+mkdir myproject && cd myproject`
