@@ -70,3 +70,5 @@ a. Cree una carpeta en su máquina local para su primer proyecto Terraform y nav
 'mkdir myproject && cd myproject`
 
 
+
+
