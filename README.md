@@ -75,38 +75,18 @@ b. Cree un archivo de configuración config.tf, utilice este archivo para config
 
 El archivo tendrá la siguiente estructura
 
-
 <pre><code>
-
 provider "skytap" {
-  username = "mario.Olarte@ibm.com"
-  api_token = "b5cf5669428ebf250ea62b56107fe882881144a0"
+  username = "user"
+  api_token = "token"
 }
 
 
 resource "skytap_environment" "enviroment"{
-  template_id = "1863063"
+  template_id = "id"
   name = "Prueba"
   description = "Skytap terraform provider example environment."
 }
-resource "skytap_vm" "lpar1" {
-  template_id = 1863063
-  vm_id = 39131371
-  environment_id = skytap_environment.enviroment.id
-  name = "Node 2 - AIX 7.2 TL3 SP2"
-}
-output "address" {
-  value = https://cloud.skytap.com/configurations/skytap_environment.enviroment.id
-}
-resource "skytap_network" "network" {
-  environment_id = skytap_environment.env.id
-  name = "iSCSI"
-  domain = "iscsi"
-  subnet = "192.168.1.0/24"
-  gateway = "192.168.1.254"
-  tunnelable = false
-}
-
 </pre></code>
 
 
