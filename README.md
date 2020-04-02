@@ -27,7 +27,7 @@ d. Apunte la variable de entorno $ PATH a su archivo binario Terraform.
 
 `export PATH=$PATH:$HOME/terraform`
 
-e. Verifique que la instalación sea exitosa :foggy:
+e. Verifique que la instalación sea exitosa 
 
 `Terraform --version`
 
