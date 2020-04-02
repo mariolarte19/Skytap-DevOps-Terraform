@@ -29,9 +29,9 @@ d. Apunte la variable de entorno $ PATH a su archivo binario Terraform.
 
 e. Verifique que la instalación sea exitosa 
 
-`Terraform --version`
+`terraform --version`
 
-Vera una salida de consola como la siguiente:
+Vera una salida como la siguiente:
 
 `Terraform v0.12.24`
 
