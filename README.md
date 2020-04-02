@@ -35,7 +35,7 @@ Vera una salida de consola como la siguiente:
 
 `Terraform v0.12.24`
 
-### 2. Descargue el complemento skytap provider
+### 2. Descargue el complemento skytap provider 🤦
 
 a. [Descargue la última versión del archivo binario de Skytap Provider.](https://releases.hashicorp.com/terraform-provider-skytap/)
 
