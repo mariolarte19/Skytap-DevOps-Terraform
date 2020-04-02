@@ -77,8 +77,8 @@ El archivo tendrá la siguiente estructura
 
 <pre><code>
 provider "skytap" {
-  username = "user"
-  api_token = "token"
+  username = "var.skytap_username"
+  api_token = "var.skytap_api_token"
 }
 
 
