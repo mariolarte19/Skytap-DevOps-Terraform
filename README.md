@@ -160,8 +160,18 @@ Una vez creado el espacio de trabajo generamos el plan de nuestra plantilla de T
 
  
 
- 
+ ##  Construido con 🛠️
+IBM Cloud, Terraform
 
 
 
-(https://help.skytap.com/terraform-provider.html)
+## Wiki 📖
+Para más información [Skytap terraform](https://help.skytap.com/terraform-provider.html)
+
+
+## Autores ✒️
+Mario Olarte
+
+
+
+
