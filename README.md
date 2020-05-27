@@ -170,7 +170,7 @@ Para más información [Skytap terraform](https://help.skytap.com/terraform-prov
 
 
 ## Autores ✒️
-Mario Olarte
+IBM Cloud
 
 
 
