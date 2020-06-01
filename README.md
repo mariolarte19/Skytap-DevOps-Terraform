@@ -4,7 +4,7 @@ En este tutorial se va a desarrollar un ejemplo para aprender como aprovisonar r
 
 ## Componentes incluidos 
 
-* Una maquina virtual ubuntu.
+* Maquina virtual ubuntu.
 * Terraform v0.12.24.
 * Terraform-skytap provider v0.14.0.
 * Github.
